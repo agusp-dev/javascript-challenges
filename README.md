@@ -1,8 +1,7 @@
-#Javascript Challenges
+# Javascript Challenges
 
-#####half-triangle.js
+#### half-triangle.js
 Write a loop that makes seven calls to console.log to output the following triangle:
-
 #
 ##
 ###
