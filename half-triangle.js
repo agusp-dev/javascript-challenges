@@ -1,5 +1,5 @@
 let t = ''
 for (let c=1; c<7; c++) {
-    t += '#'
+    t += '*'
     console.log(t)
 }
